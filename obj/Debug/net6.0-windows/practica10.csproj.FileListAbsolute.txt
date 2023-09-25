@@ -1,0 +1,16 @@
+C:\Users\jafet\Desktop\practica10\practica10\bin\Debug\net6.0-windows\practica10.exe
+C:\Users\jafet\Desktop\practica10\practica10\bin\Debug\net6.0-windows\practica10.deps.json
+C:\Users\jafet\Desktop\practica10\practica10\bin\Debug\net6.0-windows\practica10.runtimeconfig.json
+C:\Users\jafet\Desktop\practica10\practica10\bin\Debug\net6.0-windows\practica10.dll
+C:\Users\jafet\Desktop\practica10\practica10\bin\Debug\net6.0-windows\practica10.pdb
+C:\Users\jafet\Desktop\practica10\practica10\obj\Debug\net6.0-windows\practica10.Form1.resources
+C:\Users\jafet\Desktop\practica10\practica10\obj\Debug\net6.0-windows\practica10.csproj.GenerateResource.cache
+C:\Users\jafet\Desktop\practica10\practica10\obj\Debug\net6.0-windows\practica10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jafet\Desktop\practica10\practica10\obj\Debug\net6.0-windows\practica10.AssemblyInfoInputs.cache
+C:\Users\jafet\Desktop\practica10\practica10\obj\Debug\net6.0-windows\practica10.AssemblyInfo.cs
+C:\Users\jafet\Desktop\practica10\practica10\obj\Debug\net6.0-windows\practica10.csproj.CoreCompileInputs.cache
+C:\Users\jafet\Desktop\practica10\practica10\obj\Debug\net6.0-windows\practica10.dll
+C:\Users\jafet\Desktop\practica10\practica10\obj\Debug\net6.0-windows\refint\practica10.dll
+C:\Users\jafet\Desktop\practica10\practica10\obj\Debug\net6.0-windows\practica10.pdb
+C:\Users\jafet\Desktop\practica10\practica10\obj\Debug\net6.0-windows\practica10.genruntimeconfig.cache
+C:\Users\jafet\Desktop\practica10\practica10\obj\Debug\net6.0-windows\ref\practica10.dll
