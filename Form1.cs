@@ -11,13 +11,14 @@ namespace practica10
 
         private void btnPintarArreglo_Click(object sender, EventArgs e)
         {
+            listBox1.Items.Clear();
 
             if (int.TryParse(tbNumero.Text.Trim(), out int numero))
             {
 
                 Arreglo arreglo = new Arreglo();
 
-                arreglo.ArregloCuadrado(numero, listBox1);
+                arreglo.GaussJordan(numero,listBox1);
             }
             else
             {

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jafet\\Desktop\\practica10\\practica10\\practica10.csproj": {}
+    "C:\\Users\\jafet\\Desktop\\PRACTICAS-ESTRUTURA-DE-DATOS\\practica10\\practica10\\practica10.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jafet\\Desktop\\practica10\\practica10\\practica10.csproj": {
+    "C:\\Users\\jafet\\Desktop\\PRACTICAS-ESTRUTURA-DE-DATOS\\practica10\\practica10\\practica10.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jafet\\Desktop\\practica10\\practica10\\practica10.csproj",
+        "projectUniqueName": "C:\\Users\\jafet\\Desktop\\PRACTICAS-ESTRUTURA-DE-DATOS\\practica10\\practica10\\practica10.csproj",
         "projectName": "practica10",
-        "projectPath": "C:\\Users\\jafet\\Desktop\\practica10\\practica10\\practica10.csproj",
+        "projectPath": "C:\\Users\\jafet\\Desktop\\PRACTICAS-ESTRUTURA-DE-DATOS\\practica10\\practica10\\practica10.csproj",
         "packagesPath": "C:\\Users\\jafet\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jafet\\Desktop\\practica10\\practica10\\obj\\",
+        "outputPath": "C:\\Users\\jafet\\Desktop\\PRACTICAS-ESTRUTURA-DE-DATOS\\practica10\\practica10\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jafet\\AppData\\Roaming\\NuGet\\NuGet.Config",
